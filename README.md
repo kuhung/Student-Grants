@@ -4,7 +4,9 @@
 
 #### 成员：
 kuhung
+
 Yes,boy!
+
 jacker
 
 #### 代码使用说明：
@@ -24,9 +26,12 @@ jacker
 - model2：特征生成模型
 - model3: 融合模型
 
-															·
+
 
 **将结果为0.02880的结果导入kuhung文件夹下threshold for bash line模型，与binary_model生成的二分类结果求交，即可得最终线上结果0.02888。**
+
+
+
 
 
 
