@@ -1,33 +1,33 @@
-DataCastle ´óÑ§ÉúÖúÑ§½ð¾«×¼×ÊÖúÔ¤²â£¨Ëã·¨×Ê¸ñÈü£©µÚÆßÃû½â¾ö·½°¸
-http://www.pkbigdata.com/common/cmpt/%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8A%A9%E5%AD%A6%E9%87%91%E7%B2%BE%E5%87%86%E8%B5%84%E5%8A%A9%E9%A2%84%E6%B5%8B_%E5%8F%82%E8%B5%9B%E4%B8%8E%E7%BB%84%E9%98%9F.html#teamStandard
+### DataCastle å¤§å­¦ç”ŸåŠ©å­¦é‡‘ç²¾å‡†èµ„åŠ©é¢„æµ‹ï¼ˆç®—æ³•èµ„æ ¼èµ›ï¼‰ç¬¬ä¸ƒåè§£å†³æ–¹æ¡ˆ
+[ç½‘å€](http://www.pkbigdata.com/common/cmpt/%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8A%A9%E5%AD%A6%E9%87%91%E7%B2%BE%E5%87%86%E8%B5%84%E5%8A%A9%E9%A2%84%E6%B5%8B_%E5%8F%82%E8%B5%9B%E4%B8%8E%E7%BB%84%E9%98%9F.html#teamStandard)
 
 
-³ÉÔ±£º
+#### æˆå‘˜ï¼š
 kuhung
 Yes,boy!
 jacker
 
-´úÂëÊ¹ÓÃËµÃ÷£º
-kuhungÎÄ¼þÏÂ£º
-base_line£º»ù±¾Ä£ÐÍ£¬ÒÀ´ÎÔËÐÐ3¸öfeatureºÍcode£¬¿ÉµÃ°ñÉÏ0.02867½á¹û¡£
-input£ºÉú³ÉµÄÖÐ¼äÎÄ¼þ¡£°üÀ¨ÌØÕ÷£¬topÌØÕ÷Ë÷Òý¡£
-output£º¶þ·ÖÀà½á¹ûÓë×îºóÌá½»ÎÄ¼þ¡£
-test£º²âÊÔ¼¯ÎÄ¼þ
-train£ºÑµÁ·¼¯ÎÄ¼þ
+#### ä»£ç ä½¿ç”¨è¯´æ˜Žï¼š
+##### kuhungæ–‡ä»¶ä¸‹ï¼š
+- base_lineï¼šåŸºæœ¬æ¨¡åž‹ï¼Œä¾æ¬¡è¿è¡Œ3ä¸ªfeatureå’Œcodeï¼Œå¯å¾—æ¦œä¸Š0.02867ç»“æžœã€‚
+- inputï¼šç”Ÿæˆçš„ä¸­é—´æ–‡ä»¶ã€‚åŒ…æ‹¬ç‰¹å¾ï¼Œtopç‰¹å¾ç´¢å¼•ã€‚
+- outputï¼šäºŒåˆ†ç±»ç»“æžœä¸Žæœ€åŽæäº¤æ–‡ä»¶ã€‚
+- testï¼šæµ‹è¯•é›†æ–‡ä»¶
+- trainï¼šè®­ç»ƒé›†æ–‡ä»¶
 
-ÆäÓàipynb£º°üÀ¨¶þ·ÖÀàÄ£ÐÍ¡¢ÌØÕ÷Éú³ÉÄ£ÐÍ¡¢ÌØÕ÷É¸Ñ¡Ä£ÐÍ¡¢¶þ·ÖÀà+¶à·ÖÀàºÏ²¢Ä£ÐÍ¡¢µ÷²ÎÄ£ÐÍ¡£
+- å…¶ä½™ipynbï¼šåŒ…æ‹¬äºŒåˆ†ç±»æ¨¡åž‹ã€ç‰¹å¾ç”Ÿæˆæ¨¡åž‹ã€ç‰¹å¾ç­›é€‰æ¨¡åž‹ã€äºŒåˆ†ç±»+å¤šåˆ†ç±»åˆå¹¶æ¨¡åž‹ã€è°ƒå‚æ¨¡åž‹ã€‚
 
-top_pro02867.csv: ÏßÉÏ0.02867½á¹ûµÄ¸ÅÂÊ£¬ÓÃÓÚºÍYes,boy!µÄ×î¼ÑÏßÉÏ¸ÅÂÊ½á¹ûÈÚºÏ¡£ÈÚºÏÄ£ÐÍÎ»ÓÚYes,boy!model3£¬ÈÚºÏ±ÈÀýÎª6:4¡£ÈÚºÏÏßÉÏ½á¹û0.02880¡£
+- top_pro02867.csv: çº¿ä¸Š0.02867ç»“æžœçš„æ¦‚çŽ‡ï¼Œç”¨äºŽå’ŒYes,boy!çš„æœ€ä½³çº¿ä¸Šæ¦‚çŽ‡ç»“æžœèžåˆã€‚èžåˆæ¨¡åž‹ä½äºŽYes,boy!model3ï¼Œèžåˆæ¯”ä¾‹ä¸º6:4ã€‚èžåˆçº¿ä¸Šç»“æžœ0.02880ã€‚
 
-Yes,boy!ÎÄ¼þ£º
-model1£º»ù±¾Ä£ÐÍ
-model2£ºÌØÕ÷Éú³ÉÄ£ÐÍ
-model3: ÈÚºÏÄ£ÐÍ
+#### Yes,boy!æ–‡ä»¶ï¼š
+- model1ï¼šåŸºæœ¬æ¨¡åž‹
+- model2ï¼šç‰¹å¾ç”Ÿæˆæ¨¡åž‹
+- model3: èžåˆæ¨¡åž‹
 
-															¡¤
+															Â·
 
-½«½á¹ûÎª0.02880µÄ½á¹ûµ¼ÈëkuhungÎÄ¼þ¼ÐÏÂthreshold for bash lineÄ£ÐÍ£¬Óëbinary_modelÉú³ÉµÄ¶þ·ÖÀà½á¹ûÇó½»£¬¼´¿ÉµÃ×îÖÕÏßÉÏ½á¹û0.02888¡£
+**å°†ç»“æžœä¸º0.02880çš„ç»“æžœå¯¼å…¥kuhungæ–‡ä»¶å¤¹ä¸‹threshold for bash lineæ¨¡åž‹ï¼Œä¸Žbinary_modelç”Ÿæˆçš„äºŒåˆ†ç±»ç»“æžœæ±‚äº¤ï¼Œå³å¯å¾—æœ€ç»ˆçº¿ä¸Šç»“æžœ0.02888ã€‚**
 
 
 
-2016Äê11ÔÂ3ÈÕ-2017Äê2ÔÂ20ÈÕ 
+2016å¹´11æœˆ3æ—¥-2017å¹´2æœˆ20æ—¥ 
